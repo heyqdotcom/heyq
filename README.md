@@ -60,16 +60,16 @@ Get started by following our **[getting started guide](https://heyq.com/docs/get
 HeyQ is built to plug into the tools you already use:
 
 - **Cursor / Claude Code / Claude Desktop** — via the [MCP server](https://heyq.com/docs/integrations/mcp-server)
-- **Any browser workflow** — via the [browser extension](https://heyq.com/docs/integrations/browser-extension)
-- **Your team chat** — via the [Slack integration](https://heyq.com/docs/integrations/slack)
+- **Any browser workflow** — via the [browser extension](https://heyq.com/docs/integrations/external-tools/browser-extension)
+- **Your team chat** — via the [Slack integration](https://heyq.com/docs/integrations/external-tools/slack)
 
 ## Documentation
 
 **[📚 View Documentation →](https://heyq.com/docs)**
 
-- [Getting Started](https://heyq.com/docs/getting-started) - Sign up, create your first project, and learn the core workflow
-- [Integrations](https://heyq.com/docs/integrations) - MCP, browser extension, Slack, webhooks
-- [Plans & Credits](https://heyq.com/docs/getting-started/plans-and-credits) - Pricing, limits, and how credits work
+- [Getting Started](https://heyq.com/docs/introduction/getting-started/welcome-to-q) - Sign up, create your first project, and learn the core workflow
+- [Integrations](https://heyq.com/docs/integrations/overview/about-integrations) - MCP, browser extension, Slack, webhooks
+- [Plans & Credits](https://heyq.com/docs/introduction/getting-started/plans-and-credits) - Pricing, limits, and how credits work
 
 ## Issue Reporting
 
